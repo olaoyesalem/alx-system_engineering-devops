@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --feom=guillaume betty hello
